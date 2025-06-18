@@ -1,17 +1,32 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=460fa0"/>
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9845f5"/>
 
-<!--
-**c4pt4inroot/c4pt4inroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<div align="center">
+  <img
+    height=205
+    align="center"
+    alt="GitHub Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c4pt4inroot&theme=midnight_purple"
+  />
+  <img
+    height=205
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c4pt4inroot&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c4pt4inroot&theme=midnight_purple"
+  />
+  
+  #
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{c4pt4inroot}/count.svg" /></p> 
+<br></div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9845f5&height=120&section=footer"/>
