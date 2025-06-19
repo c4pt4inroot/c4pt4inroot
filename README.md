@@ -60,8 +60,6 @@ It wasn’t easy, I faced a lot of challenges along the way, but thanks to my st
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/UnrealEngine.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" />
 </div>
-
-<br>
   
   #
   
