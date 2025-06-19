@@ -8,7 +8,7 @@
 
 #
 <br>
-<img height="300px" align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
+<img height="350px" align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
 
 <p align="left">👋 Hey! I'm Leonardo Vieira, a Computer Engineering student driven by curiosity and a love for technology. I enjoy coding, building hardware, firmware, hacking, and diving deep into systems to understand how they work. Most of what I know, I’ve learned by studying on my own, experimenting, and doing a lot of reverse engineering.
