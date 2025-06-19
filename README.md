@@ -7,8 +7,9 @@
 </div>
 
 #
+<br>
+<img height="400px" align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
-<img height="250px" align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
 <p align="left">👋 Hey! I'm Leonardo Vieira, a Computer Engineering student driven by curiosity and a love for technology. I enjoy coding, building hardware, firmware, hacking, and diving deep into systems to understand how they work. Most of what I know, I’ve learned by studying on my own, experimenting, and doing a lot of reverse engineering.
 It wasn’t easy, I faced a lot of challenges along the way, but thanks to my stubbornness and persistence, I kept going. Now I want to give back by contributing to the open source community and sharing what I’ve learned. Feel free to explore my projects!<p/>
@@ -61,7 +62,7 @@ It wasn’t easy, I faced a lot of challenges along the way, but thanks to my st
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" />
 </div>
   
-  #
+#
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
