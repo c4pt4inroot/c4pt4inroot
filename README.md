@@ -11,7 +11,18 @@
 <p align="left">👋 Hey! I'm Leonardo Vieira, a Computer Engineering student driven by curiosity and a love for technology. I enjoy coding, building hardware, firmware, hacking, and diving deep into systems to understand how they work. Most of what I know, I’ve learned by studying on my own, experimenting, and doing a lot of reverse engineering.
 It wasn’t easy, I faced a lot of challenges along the way, but thanks to my stubbornness and persistence, I kept going. Now I want to give back by contributing to the open source community and sharing what I’ve learned. Feel free to explore my projects!<p/>
 
-<h3 align="left">Conect with me!<h3/>
+<div align="left">
+  <samp>
+    <b>
+      <h3>Conect with me!<h3/>
+    </b>
+  </samp>
+
+  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/OpcodeXe)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/kamyzmedino/?next=%2F](https://www.instagram.com/c4pt4inroot/))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-dos-santos-004201241/)
+  
+</div>
 
 #
 
