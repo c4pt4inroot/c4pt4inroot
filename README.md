@@ -18,7 +18,7 @@ It wasn’t easy, I faced a lot of challenges along the way, but thanks to my st
   <h3>Conect with me!<h3/>
   
   [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/OpcodeXe)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/kamyzmedino/?next=%2F](https://www.instagram.com/c4pt4inroot/))
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c4pt4inroot/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-dos-santos-004201241/)
   
 </div>
