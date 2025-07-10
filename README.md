@@ -17,7 +17,6 @@
   
   [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/OpcodeXe)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c4pt4inroot/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-dos-santos-004201241/)
   
 </div>
 
